@@ -1,6 +1,6 @@
-## Algorithmic Resources 2023
+## Algorithm Resources 2023
 
-A Curated list of Topic wise Theory and Questions to Get You Started On Competitive Coding.
+Topic wise list of resources to kickstart your Algorithm journey.
 
 Topics
 ---
